@@ -1,4 +1,8 @@
-### Hi there 👋
+###  你好👋
+
+I am currently studying Computer Science in Norwegian University of Science and Technology👩🏻‍💻
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/elizabeth-pan-%E6%BD%98%E7%88%B1%E5%9B%A1-88295a23/)🚀
 
 <!--
 **elizabap/elizabap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
